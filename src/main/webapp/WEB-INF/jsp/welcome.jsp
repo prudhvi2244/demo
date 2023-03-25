@@ -7,6 +7,6 @@
 <title>Welcome Page</title>
 </head>
 <body>
-	<h1 style="text-align: center;color:green">Welcome to Spring Web Application!</h1>
+	<h1 style="text-align: center;color:red">Welcome to Spring Web Application!</h1>
 </body>
 </html>
